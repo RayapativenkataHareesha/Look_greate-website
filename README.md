@@ -4,6 +4,9 @@ This repository hosts the final project of Future Ready Talent Internship, this 
 ### About Atelier
 Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
 
+project link : 
+ https://rayapativenkatahareesha.github.io/Look_greate-website/
+ 
 ### Languages Used
   - HTML
   - CSS
