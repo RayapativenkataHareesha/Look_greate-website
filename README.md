@@ -5,7 +5,8 @@ This repository hosts the final project of Future Ready Talent Internship, this 
 Atelier is a website that helps hairdressers and salons promote their businesses online and take appointments from clients using chatbot (AtelierBot)
 
 project link : 
-https://rayapativenkatahareesha.github.io/Look_greate-website/ 
+https://rayapativenkatahareesha.github.io/Look_greate-website/
+
 Demo link : 
 https://youtube.com/channel/UCFJoZl0K43LivAOebnpIa_g
 
