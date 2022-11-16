@@ -11,7 +11,6 @@ Demo link :
 https://youtube.com/channel/UCFJoZl0K43LivAOebnpIa_g
 
 
-
 ### Core Azure Services Used
   - [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
   - [QnA Maker](https://www.qnamaker.ai/)
