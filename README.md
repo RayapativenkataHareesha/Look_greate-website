@@ -9,10 +9,7 @@ https://rayapativenkatahareesha.github.io/Look_greate-website/
 Demo link : 
 https://youtube.com/channel/UCFJoZl0K43LivAOebnpIa_g
 
-### Languages Used
-  - HTML
-  - CSS
-  - JavaScript
+
 
 ### Core Azure Services Used
   - [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#overview)
