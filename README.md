@@ -6,7 +6,7 @@ Atelier is a website that helps hairdressers and salons promote their businesses
 
 project link : 
  https://rayapativenkatahareesha.github.io/Look_greate-website/
-
+ 
 Demo link : 
 https://youtube.com/channel/UCFJoZl0K43LivAOebnpIa_g
 
